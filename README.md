@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# (Click here to view the project live up and running)[https://nav-socials.web.app]
 
 ## Available Scripts
 
