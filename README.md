@@ -1,4 +1,4 @@
-# (Click here to view the project live up and running)[https://nav-socials.web.app]
+# [Click here to view the project live up and running](https://nav-socials.web.app)
 
 ## Available Scripts
 
