@@ -4,14 +4,24 @@ html {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body {
+/* body {
 	background-color: #0a0a0a;
 	color: #f0f0f0;
+} */
+* {
+	margin: 0px;
+	padding: 0;
+	box-sizing: border-box;
 }
-
+.App {
+	height: 100vh;
+	width: 100%;
+	transition: all 0.8s cubic-bezier(1, 0.01, 0, 1);
+}
 .header {
 	text-align: center;
 	font-family: 'Roboto Mono', monospace;
+	padding-top: 25px;
 }
 
 .subtitle {
@@ -19,9 +29,12 @@ body {
 	color: #5b5b5b;
 }
 
+.dark-mode-toggle {
+	margin-top: 25px;
+}
 .cards-container {
 	/* height: 95vh; */
-	margin: 100px auto 0 auto;
+	margin: 60px auto 0 auto;
 	width: 75%;
 	display: flex;
 	align-items: center;
@@ -76,7 +89,7 @@ body {
 }
 
 .card:hover {
-	background-color: #282828;
+	background-color: rgba(0, 0, 0, 0.05);
 }
 
 .card:hover img,
