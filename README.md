@@ -1,5 +1,4 @@
 # Social Links Landing Page
-##### [Click here to view the project live](https://nav-socials.web.app)
 Built with react.js and framer motion.
 
 ## Available Scripts
